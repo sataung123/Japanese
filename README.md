@@ -1,4 +1,6 @@
-# Japanese
+Hello, this is my Japanese and English notes.
 
-Hello, this is my japanese notes.
-If you know some useful vocabulary or phrases, please add in there.
+If you have some useful vocabulary or phrases, please add to this repo.
+
+Thanks,
+Sat
